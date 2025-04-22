@@ -1,0 +1,5 @@
+google-adk
+requests
+geopy
+timezonefinder
+python-dotenv
